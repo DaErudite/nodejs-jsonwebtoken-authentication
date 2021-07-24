@@ -7,3 +7,7 @@ Authentication including signing up, login, hashing of passwords,logging out wit
 
 
 Basic but functional CSS/HTML design
+
+
+hashing is implememented using bcrypt module
+Custom User module is used in creation of new instances in the database(MongoDB) 
